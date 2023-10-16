@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.16.0"
+  },
+  "name": "darkness-lounge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": { 
+    "start": "nodemon index.js" 
+},
+  "author": "Lono",
+  "license": "ISC",
+  "description": ""
+}
